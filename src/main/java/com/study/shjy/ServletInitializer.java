@@ -1,5 +1,6 @@
-package com.study.shjy;
+package sehwa.ex2.entitiy;
 
+import com.study.shjy.ShjyApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
